@@ -48,7 +48,7 @@ atvd_01/
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/antoniotfs/atvd_01.git
+git clone <url-do-repositorio>
 cd atvd_01
 ```
 
